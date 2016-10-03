@@ -1,0 +1,18 @@
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\RfID.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.exe
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.pdb
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\bin\Debug\ServoMotor.exe
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\bin\Debug\ServoMotor.pdb
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\RfID.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.Form1.resources
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.Properties.Resources.resources
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\RfID.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\obj\Debug\RfID.csproj.ResolveComReference.cache
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\obj\Debug\ServoMotor.exe
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\obj\Debug\ServoMotor.pdb
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\bin\Debug\ServoMotor.exe
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\bin\Debug\ServoMotor.pdb
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\obj\Debug\RfID.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\obj\Debug\ServoMotor.Form1.resources
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\obj\Debug\ServoMotor.Properties.Resources.resources
+C:\Users\Emre\Desktop\SeriPort Gui\Seri Port Gui\obj\Debug\RfID.csproj.GenerateResource.Cache

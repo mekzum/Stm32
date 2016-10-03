@@ -9,6 +9,6 @@ int calc_uartdivide(double mhz,double baud){
 
 main()
 {	
-printf("%X",calc_uartdivide(24,19200));		
+printf("%X",calc_uartdivide(42,38400));		
 
 }

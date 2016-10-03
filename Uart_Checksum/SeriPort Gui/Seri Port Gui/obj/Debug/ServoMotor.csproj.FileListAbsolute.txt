@@ -1,0 +1,9 @@
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\bin\Debug\ServoMotor.exe
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\bin\Debug\ServoMotor.pdb
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.Form1.resources
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.Properties.Resources.resources
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.exe
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.pdb
+C:\Users\Emre\Desktop\ServoMotor\ServoMotor\obj\Debug\ServoMotor.csproj.ResolveComReference.cache
